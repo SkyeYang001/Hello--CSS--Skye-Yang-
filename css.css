@@ -26,6 +26,7 @@ ul {
   
 ol {
     list-style-type: lower-roman;
+    color:#ff00ee;
 }
 a {
     text-decoration: none;
